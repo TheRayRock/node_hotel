@@ -69,3 +69,5 @@ app.get('/Menu', async (res, res) => {
 app.listen(3784, () => {
     console.log('Server is running on port 3784');
 });
+
+//connect added for testing purpose
